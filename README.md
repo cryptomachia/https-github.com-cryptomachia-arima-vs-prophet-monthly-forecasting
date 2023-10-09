@@ -6,7 +6,7 @@ Considering the strong postive correlation between altcoin and BTC prices, and a
 I made minor changes to facebooks forecasting.py as Prophet module was outdated, and also resolved version conflicts by manually installing specific versions of modules. To make it easy, simply use my venv folder with all the changes by dragging venv folder into pythonProject, or wherever you want it.
 `cd /Users/name/PycharmProjects/pythonProject`
 `source venv_name/bin/activate`
-
+download the venv here: https://drive.google.com/drive/folders/16RFTAx2bI8xATWBeJwpTsTlCAQE0niRT?usp=sharing
 
 ### Setup and Preprocessing
 - **Timestamp Initialization**: Utilizes the `time` library to record the current runtime, aiding in performance analysis.
